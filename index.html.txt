@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCET GAMES</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #ffffff; 
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 4rem;
+            color: #222222;
+            letter-spacing: 2px;
+        }
+    </style>
+</head>
+<body>
+    <h1>OCET GAMES</h1>
+</body>
+</html>
